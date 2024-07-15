@@ -1,0 +1,1 @@
+Hadoop Movie Search and Analysis is a Java-based application that leverages Hadoop MapReduce to process and analyze movie data. The application features a graphical user interface (GUI) that allows users to search for movies and calculate average movie durations by genre based on specified criteria.
